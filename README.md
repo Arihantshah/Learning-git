@@ -1,3 +1,3 @@
 # Learning-git
 This is my first repository
-Author - Arihant shah
+Author - Arihant shah (Wordpress developer)
